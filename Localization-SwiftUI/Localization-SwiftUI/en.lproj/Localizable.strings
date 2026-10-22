@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  Localization-SwiftUI
+
+  Created by RMP on 11/05/1448 AH.
+  
+*/
+
+largeTitle = "largeTitle";
+title = "title";
+title2 = "title2";
+title3 = "title3";
+headline = "headline";
+subheadline = "subheadline";
+footnote = "footnote";
+caption = "caption";
+caption2 = "caption2";
+footnote = "footnote";
+

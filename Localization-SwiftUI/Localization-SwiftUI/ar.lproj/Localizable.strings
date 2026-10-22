@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  Localization-SwiftUI
+
+  Created by RMP on 11/05/1448 AH.
+  
+*/
+
+largeTitle = "خط عريض 1";
+title = "خط عريض 2";
+title2 = "خط عريض 3";
+title3 = "خط عريض 4";
+headline = "خط عريض 5";
+subheadline = "خط عريض 6";
+footnote = "خط عريض 7";
+caption = "خط عريض 8";
+caption2 = "خط عريض 9";
+footnote = "خط عريض 10 ";
